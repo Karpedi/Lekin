@@ -5,7 +5,7 @@ Razvrščanje in optimizacija logističnih postopkov | Scheduling and optimizati
 
 [Spletni tečaj uporabe programa LEKIN s teorijo](https://www.youtube.com/watch?v=ecWG2eYKho4)
 
-[PROGRAM](https://github.com/Karpedi/Lekin/blob/main/lekin.exe)
+[PROGRAM](https://web-static.stern.nyu.edu/om/software/lekin/Lekin2010.zip)
 
 Sistem vključuje več različnih algoritmov in hevrističnih metod razvrščanja, možno pa je tudi vključevanje lastno razvitih metod in jih tako testirati in primerjati z že obstoječimi. Z orodjem Lekin lahko predstavimo različne sestave: od enega stroja (**Single machine**), linijske proizvodnje (**Flow shop**), do fleksibilne delavniške konfiguracije (**Flexible Job Shop**).
 
